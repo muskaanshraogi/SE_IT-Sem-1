@@ -1,0 +1,14 @@
+
+Enter model number:
+3454
+Enter screen size:
+55
+Enter price:
+5600
+
+Exception caught
+
+Final values:
+Model no.:0
+Screen size:0
+Price:0

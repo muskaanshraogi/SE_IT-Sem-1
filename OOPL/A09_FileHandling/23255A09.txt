@@ -1,0 +1,8 @@
+Enter text to be written to the file:
+This is a sample file for file handling in C++.
+
+Written to the file successfully!
+
+The content of the file is:
+This is a sample file for file handling in C++.
+

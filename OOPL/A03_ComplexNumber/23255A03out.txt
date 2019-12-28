@@ -1,0 +1,80 @@
+Choose any operation:
+1)Input
+2)Addition
+3)Subtraction
+4)Muliplication
+5)Division
+6)Exit
+1
+
+Enter the real part for complex number c1:
+12
+Enter the imaginary part for complex number c1:
+5
+Complex number c1 is:
+12+(5)i
+
+Enter the real part for complex number c2:
+10
+Enter the imaginary part for complex number c2:
+9
+Complex number c2 is:
+10+(9)i
+
+Choose any operation:
+1)Input
+2)Addition
+3)Subtraction
+4)Muliplication
+5)Division
+6)Exit
+2
+
+The addition of the two complex numbers is:
+22+(14)i
+
+Choose any operation:
+1)Input
+2)Addition
+3)Subtraction
+4)Muliplication
+5)Division
+6)Exit
+3
+
+The subtraction of the two complex numbers is:
+2+(-4)i
+
+Choose any operation:
+1)Input
+2)Addition
+3)Subtraction
+4)Muliplication
+5)Division
+6)Exit
+4
+
+The multiplication of the two complex numbers is:
+75+(158)i
+
+Choose any operation:
+1)Input
+2)Addition
+3)Subtraction
+4)Muliplication
+5)Division
+6)Exit
+5
+
+The division of the two complex numbers is:
+0.911602+(-0.320442)i
+
+Choose any operation:
+1)Input
+2)Addition
+3)Subtraction
+4)Muliplication
+5)Division
+6)Exit
+6
+

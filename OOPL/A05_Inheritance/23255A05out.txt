@@ -1,0 +1,37 @@
+
+CREATE A BIODATA:
+
+Enter name of employee:
+Muskaan Shraogi
+Enter blood group:
+O+
+Enter date of birth(dd <space> mm <space> yyyy)
+20 11 2000
+Enter field(s) of expertise:
+Web Development
+Enter no. of years of work experience:
+2
+Enter percentile obtained in degree:
+9.56
+
+
+--------------------------RESUME---------------------------
+
+
+PERSONAL DETAILS:
+
+Name            :Muskaan Shraogi
+Date of birth   :20/11/2000
+Blood Group     :O+
+
+PROFESSIONAL DETAILS:
+
+Skills          :Web Development
+Experience      :2 years
+
+ACADEMIC DETAILS:
+
+Percentile      :9.56
+
+
+-----------------------------------------------------------

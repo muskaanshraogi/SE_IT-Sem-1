@@ -1,0 +1,236 @@
+
+***BOOKSTORE INVENTORY***
+
+
+Enter your choice:
+1)Add books
+2)Search for book
+3)Purchase a book
+4)Update book details
+5)Transaction history
+6)Exit.
+
+1
+Enter the number of books to be added:
+5
+
+Enter book number:
+123
+Enter the name of the book:
+LetUsC
+Enter the name of the author:
+YKanetkar
+Enter the name of publisher:
+BPBPublictaions
+Enter price of book:
+200
+Enter the available stock:
+100
+
+Enter book number:
+111
+Enter the name of the book:
+HarryPotter
+Enter the name of the author:
+JKRowling
+Enter the name of publisher:
+Bloomberry
+Enter price of book:
+60
+Enter the available stock:
+54
+
+Enter book number:
+453
+Enter the name of the book:
+TheOrigin
+Enter the name of the author:
+DanBrown
+Enter the name of publisher:
+ABCPublications
+Enter price of book:
+180
+Enter the available stock:
+35
+
+Enter book number:
+433
+Enter the name of the book:
+OOPwithC++
+Enter the name of the author:
+Balaguruswamy
+Enter the name of publisher:
+Anonymous
+Enter price of book:
+95
+Enter the available stock:
+12
+
+Enter book number:
+623
+Enter the name of the book:
+Twilight
+Enter the name of the author:
+Stephanie
+Enter the name of publisher:
+Meyer
+Enter price of book:
+125
+Enter the available stock:
+40
+
+Enter your choice:
+1)Add books
+2)Search for book
+3)Purchase a book
+4)Update book details
+5)Transaction history
+6)Exit.
+
+2
+
+Select mode for search:
+1)Search by number
+2)Search by author
+3)Search by title
+
+1
+Enter the book number:
+623
+
+Book found!
+ISBN no.:623    Title:Twilight  Author:Stephanie        Publisher:Meyer Price:125       Stock:40
+
+Enter your choice:
+1)Add books
+2)Search for book
+3)Purchase a book
+4)Update book details
+5)Transaction history
+6)Exit.
+
+2
+
+Select mode for search:
+1)Search by number
+2)Search by author
+3)Search by title
+
+2
+Enter the name of the author:
+JKRowling
+
+Book found!
+ISBN no.:111    Title:HarryPotter       Author:JKRowling        Publisher:Bloomberry    Price:60        Stock:54
+
+Enter your choice:
+1)Add books
+2)Search for book
+3)Purchase a book
+4)Update book details
+5)Transaction history
+6)Exit.
+
+3
+Enter the ISBN no. of the book that you want to buy:
+123
+Enter the number of copies you want:
+45
+
+Book in stock!
+
+Your total bill is Rs.9000
+
+Transaction successful!
+
+Enter your choice:
+1)Add books
+2)Search for book
+3)Purchase a book
+4)Update book details
+5)Transaction history
+6)Exit.
+
+3
+Enter the ISBN no. of the book that you want to buy:
+623
+Enter the number of copies you want:
+50
+
+Sorry!We're out of stock.
+
+Transaction unsuccessful.
+
+Enter your choice:
+1)Add books
+2)Search for book
+3)Purchase a book
+4)Update book details
+5)Transaction history
+6)Exit.
+
+4
+Enter the ISBN no. of the book to be updated:
+623
+
+What do you want to update?
+1)Price
+2)Stock
+2
+Enter updated stock:
+55
+
+Inventory successfully updated.
+
+ISBN no.:623    Title:Twilight  Author:Stephanie        Publisher:Meyer Price:125       Stock:55
+
+Enter your choice:
+1)Add books
+2)Search for book
+3)Purchase a book
+4)Update book details
+5)Transaction history
+6)Exit.
+
+3
+Enter the ISBN no. of the book that you want to buy:
+623
+Enter the number of copies you want:
+50
+
+Book in stock!
+
+Your total bill is Rs.6250
+
+Transaction successful!
+
+Enter your choice:
+1)Add books
+2)Search for book
+3)Purchase a book
+4)Update book details
+5)Transaction history
+6)Exit.
+
+5
+
+Successful transactions:2
+
+Unsuccessful transactions:1
+
+Total transactions:3
+
+Enter your choice:
+1)Add books
+2)Search for book
+3)Purchase a book
+4)Update book details
+5)Transaction history
+6)Exit.
+
+6
+
+--------------------------------
+Process exited after 368.1 seconds with return value 0
+Press any key to continue . . .
+

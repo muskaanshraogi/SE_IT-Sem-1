@@ -1,0 +1,20 @@
+Division of two numbers:
+
+
+Enter the dividend and the divisor respectively:
+45 5
+
+The result of the division is:
+45/5=9
+
+Try another division?(y/n)
+y
+
+Enter the dividend and the divisor respectively:
+34 0
+
+Cannot divide by zero!
+
+Try another division?(y/n)
+n
+

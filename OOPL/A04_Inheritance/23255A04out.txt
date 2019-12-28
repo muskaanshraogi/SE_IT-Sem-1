@@ -1,0 +1,192 @@
+
+Enter your choice:
+1)Build a master table
+2)Display Record
+3)Insert  a record
+4)Delete record
+5)Edit  record
+6)Search for a record
+7)Exit
+1
+
+Enter the number of records to be added:
+2
+
+Enter name:
+Muskaan Shraogi
+Enter blood group:
+O+
+Enter date of birth(dd <space> mm <space> yyyy)
+20 11 2000
+Enter height(cms) and weight(kgs):
+150 50
+Enter address:
+Katraj Pune
+Enter insurance policy number:
+34567
+Enter mobile number:
+8934627936
+Enter driving license number:
+78569
+
+Enter name:
+Aditi Baheti
+Enter blood group:
+B+
+Enter date of birth(dd <space> mm <space> yyyy)
+03 03 2000
+Enter height(cms) and weight(kgs):
+167 67
+Enter address:
+Akola
+Enter insurance policy number:
+23456
+Enter mobile number:
+7890456328
+Enter driving license number:
+33456
+
+Enter your choice:
+1)Build a master table
+2)Display Record
+3)Insert  a record
+4)Delete record
+5)Edit  record
+6)Search for a record
+7)Exit
+2
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Name                    Blood Group     DOB             Height          Weight          Mobile.No.   Licence.No.        Policy.No.      Address
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Muskaan Shraogi         O+              20/11/2000      150             50              8934627936      78569           34567           Katraj Pune
+Aditi Baheti            B+              3/3/2000        167             67              7890456328      33456           23456           Akola
+
+Enter your choice:
+1)Build a master table
+2)Display Record
+3)Insert  a record
+4)Delete record
+5)Edit  record
+6)Search for a record
+7)Exit
+3
+
+Enter name:
+Itee Singh
+Enter blood group:
+AB+
+Enter date of birth(dd <space> mm <space> yyyy)
+30 09 1999
+Enter height(cms) and weight(kgs):
+140 60
+Enter address:
+Mumbai
+Enter insurance policy number:
+77859
+Enter mobile number:
+9990647320
+Enter driving license number:
+77689
+
+Enter your choice:
+1)Build a master table
+2)Display Record
+3)Insert  a record
+4)Delete record
+5)Edit  record
+6)Search for a record
+7)Exit
+2
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Name                    Blood Group     DOB             Height          Weight          Mobile.No.   Licence.No.        Policy.No.      Address
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Muskaan Shraogi         O+              20/11/2000      150             50              8934627936      78569           34567           Katraj Pune
+Aditi Baheti            B+              3/3/2000        167             67              7890456328      33456           23456           Akola
+Itee Singh              AB+             30/9/1999       140             60              9990647320      77689           77859           Mumbai
+
+Enter your choice:
+1)Build a master table
+2)Display Record
+3)Insert  a record
+4)Delete record
+5)Edit  record
+6)Search for a record
+7)Exit
+5
+
+Enter the name of the record to be modified:
+Itee Singh
+
+Select the field to be modified:
+1)Height
+2)Weight
+3)Address
+4)Mobile no.
+4
+
+Enter modified mobile no.
+7887878778
+
+Record successfully modified:
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Name                    Blood Group     DOB             Height          Weight          Mobile.No.   Licence.No.        Policy.No.      Address
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Itee Singh              AB+             30/9/1999       140             60              7887878778      77689           77859           Mumbai
+
+Enter your choice:
+1)Build a master table
+2)Display Record
+3)Insert  a record
+4)Delete record
+5)Edit  record
+6)Search for a record
+7)Exit
+4
+
+Enter the name of the record to be deleted:
+Aditi Singh
+
+Enter your choice:
+1)Build a master table
+2)Display Record
+3)Insert  a record
+4)Delete record
+5)Edit  record
+6)Search for a record
+7)Exit
+4
+
+Enter the name of the record to be deleted:
+Aditi Baheti
+
+Record successfully deleted!
+
+Enter your choice:
+1)Build a master table
+2)Display Record
+3)Insert  a record
+4)Delete record
+5)Edit  record
+6)Search for a record
+7)Exit
+2
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Name                    Blood Group     DOB             Height          Weight          Mobile.No.   Licence.No.        Policy.No.      Address
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Muskaan Shraogi         O+              20/11/2000      150             50              8934627936      78569           34567           Katraj Pune
+Itee Singh              AB+             30/9/1999       140             60              7887878778      77689           77859           Mumbai
+
+Enter your choice:
+1)Build a master table
+2)Display Record
+3)Insert  a record
+4)Delete record
+5)Edit  record
+6)Search for a record
+7)Exit
+7
+

@@ -1,0 +1,82 @@
+
+Enter your choice:
+1)Accept matrices
+2)Add matrices
+3)Multiply matrices
+4)Display result
+5)Exit
+1
+
+Enter the number of rows and columns:
+3
+3
+
+Enter the elements of the matrix:
+1
+2
+3
+4
+1
+5
+2
+3
+4
+
+Matrix A is:
+1       2       3
+4       1       5
+2       3       4
+
+Enter the number of rows and columns:
+3
+3
+
+Enter the elements of the matrix:
+2
+2
+4
+3
+1
+1
+1
+5
+2
+
+Matrix B is:
+2       2       4
+3       1       1
+1       5       2
+
+Enter your choice:
+1)Accept matrices
+2)Add matrices
+3)Multiply matrices
+4)Display result
+5)Exit
+2
+
+The addition matrix is:
+3       4       7
+7       2       6
+3       8       6
+
+Enter your choice:
+1)Accept matrices
+2)Add matrices
+3)Multiply matrices
+4)Display result
+5)Exit
+3
+
+The multiplication matrix is:
+12      12      24
+30      10      10
+9       45      18
+
+Enter your choice:
+1)Accept matrices
+2)Add matrices
+3)Multiply matrices
+4)Display result
+5)Exit
+5

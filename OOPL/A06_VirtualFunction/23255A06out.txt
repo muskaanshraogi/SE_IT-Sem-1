@@ -1,0 +1,28 @@
+Choose the shape to compute area for:
+1)Triangle
+2)Rectangle
+3)Exit
+1
+
+Enter the dimensions of base and height:
+12.2 10
+
+The area of the given triangle is 61 sq. units.
+
+Choose the shape to compute area for:
+1)Triangle
+2)Rectangle
+3)Exit
+2
+
+Enter the dimensions of length and breadth:
+11.98 22
+
+The area of the given rectangle is 263.56 sq. units.
+
+Choose the shape to compute area for:
+1)Triangle
+2)Rectangle
+3)Exit
+3
+

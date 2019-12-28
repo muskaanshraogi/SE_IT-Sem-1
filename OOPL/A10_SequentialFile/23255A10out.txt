@@ -1,0 +1,123 @@
+
+***FILE MENU***
+1)Create database
+2)Add a record
+3)Display database
+4)Delete a record
+5)Modify a record
+6)Exit
+3
+
+-------------------------------------------
+Roll no.        Name            Marks
+-------------------------------------------
+23255           MuskaanS        99
+23260           TantheMan       98
+23256           ShreyasK        88
+
+***FILE MENU***
+1)Create database
+2)Add a record
+3)Display database
+4)Delete a record
+5)Modify a record
+6)Exit
+2
+
+Enter the roll no. of the student:
+23251
+Enter the name of the student:
+SaloneyP
+Enter the marks:
+100
+
+Record(s) written to the file successfully!
+
+***FILE MENU***
+1)Create database
+2)Add a record
+3)Display database
+4)Delete a record
+5)Modify a record
+6)Exit
+3
+
+-------------------------------------------
+Roll no.        Name            Marks
+-------------------------------------------
+23255           MuskaanS        99
+23260           TantheMan       98
+23256           ShreyasK        88
+23251           SaloneyP        100
+
+***FILE MENU***
+1)Create database
+2)Add a record
+3)Display database
+4)Delete a record
+5)Modify a record
+6)Exit
+4
+
+Enter the roll number whose record has to be deleted:
+23260
+
+Record deleted successfully!
+
+***FILE MENU***
+1)Create database
+2)Add a record
+3)Display database
+4)Delete a record
+5)Modify a record
+6)Exit
+3
+
+-------------------------------------------
+Roll no.        Name            Marks
+-------------------------------------------
+23255           MuskaanS        99
+23256           ShreyasK        88
+23251           SaloneyP        100
+
+***FILE MENU***
+1)Create database
+2)Add a record
+3)Display database
+4)Delete a record
+5)Modify a record
+6)Exit
+5
+
+Enter the roll number whose record has to be modified:
+23256
+
+Enter the modified marks:
+90
+
+Modification successful!
+
+***FILE MENU***
+1)Create database
+2)Add a record
+3)Display database
+4)Delete a record
+5)Modify a record
+6)Exit
+3
+
+-------------------------------------------
+Roll no.        Name            Marks
+-------------------------------------------
+23255           MuskaanS        99
+23256           ShreyasK        90
+23251           SaloneyP        100
+
+***FILE MENU***
+1)Create database
+2)Add a record
+3)Display database
+4)Delete a record
+5)Modify a record
+6)Exit
+6
